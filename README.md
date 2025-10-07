@@ -1,4 +1,4 @@
-# Trafict light with React
+# Scramble Words App with React + Vite
 
 [@anyelycastillo.es](https://anyelycastillo.es/)
 [@instagram](https://www.instagram.com/arq.castilloaa/?hl=es)
@@ -6,7 +6,7 @@
 
 ## About this Project
 
-A semaphore designed to practice React and its different hooks, mainly useState and useEffect
+A Scramble Words App designed to practice React and its different hooks, mainly useState and useEffect
 
 ### _If you leave me some constructive feedback or a star ⭐, I would appreciate it._
 

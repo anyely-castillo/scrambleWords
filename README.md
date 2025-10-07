@@ -14,7 +14,7 @@ A semaphore designed to practice React and its different hooks, mainly useState 
 > Click on the image !
 ```
 
-[![img](./scrambleWords.jpg)](https://www.netlify.app/anyely-castillo/projects)
+[![img](./public/scrambleWords.jpg)](https://www.netlify.app/anyely-castillo/projects)
 
 ## About me
 
